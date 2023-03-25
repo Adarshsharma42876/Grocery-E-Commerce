@@ -59,3 +59,4 @@ document.querySelectorAll(".themeToggle .themeBtn").forEach((btn) => {
     document.querySelector(":root").style.setProperty("--green", color);
   };
 });
+// Theme is not working 
